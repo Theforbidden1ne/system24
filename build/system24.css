@@ -120,7 +120,7 @@ body {
 
     /* border colors */
     --border-light: var(--hover); /* general light border color */
-    --border: var(--active); /* general normal border color */
+    --border: var(--purple-1); /* general normal border color */
     --border-hover: var(--accent-2); /* border color of panels when hovered */
     --button-border: hsl(220, 0%, 100%, 0.1); /* neutral border color of buttons */
 
